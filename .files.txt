@@ -690,5 +690,16 @@ model/20230311-fox-wall-sculpture/log/webp/20230311_150707791.webp
 model/20230311-fox-wall-sculpture/log/webp/20230311_151408435.webp
 model/20230311-fox-wall-sculpture/log/webp/20230311_151417568.webp
 model/20230311-fox-wall-sculpture/src/UnpredictableLab/fox-ii-wall-sculpture-2d/53.fox2.stl
+model/20230311-harry-potter-logo/links.txt
+model/20230311-harry-potter-logo/log/20230311_185545463.jpg
+model/20230311-harry-potter-logo/log/20230311_212748449.jpg
+model/20230311-harry-potter-logo/log/20230312_000825692.jpg
+model/20230311-harry-potter-logo/log/20230312_000833326.jpg
+model/20230311-harry-potter-logo/log/webp/20230311_185545463.webp
+model/20230311-harry-potter-logo/log/webp/20230311_212748449.webp
+model/20230311-harry-potter-logo/log/webp/20230312_000825692.webp
+model/20230311-harry-potter-logo/log/webp/20230312_000833326.webp
+model/20230311-harry-potter-logo/src/3DNaow/logo-harry-potter/HARRY- 3DNaow.STL
+model/20230311-harry-potter-logo/src/3DNaow/logo-harry-potter/Merci.pdf
 README.md
 .files.txt
