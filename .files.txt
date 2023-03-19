@@ -701,12 +701,10 @@ model/20230311-harry-potter-logo/log/webp/20230312_000825692.webp
 model/20230311-harry-potter-logo/log/webp/20230312_000833326.webp
 model/20230311-harry-potter-logo/src/3DNaow/logo-harry-potter/HARRY-3DNaow.STL
 model/20230311-harry-potter-logo/src/3DNaow/logo-harry-potter/Merci.pdf
-model/20230312-harry-potter-hat/linkx.txt
+model/20230312-harry-potter-hat/links.txt
 model/20230312-harry-potter-hat/log/20230312_140308312.jpg
 model/20230312-harry-potter-hat/log/20230312_162432940.jpg
 model/20230312-harry-potter-hat/log/20230312_162446641.jpg
-model/20230312-harry-potter-hat/log/20230317_104941556.jpg
-model/20230312-harry-potter-hat/log/20230317_104953292.jpg
 model/20230312-harry-potter-hat/log/20230318_075317278.jpg
 model/20230312-harry-potter-hat/log/20230318_075412001.jpg
 model/20230312-harry-potter-hat/log/20230318_075436373.jpg
@@ -715,8 +713,6 @@ model/20230312-harry-potter-hat/log/20230318_075454876.jpg
 model/20230312-harry-potter-hat/log/webp/20230312_140308312.webp
 model/20230312-harry-potter-hat/log/webp/20230312_162432940.webp
 model/20230312-harry-potter-hat/log/webp/20230312_162446641.webp
-model/20230312-harry-potter-hat/log/webp/20230317_104941556.webp
-model/20230312-harry-potter-hat/log/webp/20230317_104953292.webp
 model/20230312-harry-potter-hat/log/webp/20230318_075317278.webp
 model/20230312-harry-potter-hat/log/webp/20230318_075412001.webp
 model/20230312-harry-potter-hat/log/webp/20230318_075436373.webp
