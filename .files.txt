@@ -71,12 +71,16 @@ model/20230209-maze-geocache/log/20230214_231303273.jpg
 model/20230209-maze-geocache/log/20230214_231321052.jpg
 model/20230209-maze-geocache/log/20230220_104201616.jpg
 model/20230209-maze-geocache/log/20230220_104213314.jpg
+model/20230209-maze-geocache/log/20230318_225654420.jpg
+model/20230209-maze-geocache/log/20230318_225710255.jpg
 model/20230209-maze-geocache/log/webp/20230214_231236103.webp
 model/20230209-maze-geocache/log/webp/20230214_231246533.webp
 model/20230209-maze-geocache/log/webp/20230214_231303273.webp
 model/20230209-maze-geocache/log/webp/20230214_231321052.webp
 model/20230209-maze-geocache/log/webp/20230220_104201616.webp
 model/20230209-maze-geocache/log/webp/20230220_104213314.webp
+model/20230209-maze-geocache/log/webp/20230318_225654420.webp
+model/20230209-maze-geocache/log/webp/20230318_225710255.webp
 model/20230209-maze-geocache/src/olb1992/olb1992-3/Lid.stl
 model/20230209-maze-geocache/src/olb1992/olb1992-3/LockingPin.stl
 model/20230209-maze-geocache/src/olb1992/olb1992-3/MagnetCap.stl
