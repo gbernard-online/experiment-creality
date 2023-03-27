@@ -710,6 +710,10 @@ model/20230312-harry-potter-hat/log/20230318_075412001.jpg
 model/20230312-harry-potter-hat/log/20230318_075436373.jpg
 model/20230312-harry-potter-hat/log/20230318_075445709.jpg
 model/20230312-harry-potter-hat/log/20230318_075454876.jpg
+model/20230312-harry-potter-hat/log/20230318_225152125.jpg
+model/20230312-harry-potter-hat/log/20230318_225209046.jpg
+model/20230312-harry-potter-hat/log/20230318_225235247.jpg
+model/20230312-harry-potter-hat/log/20230318_225246915.jpg
 model/20230312-harry-potter-hat/log/webp/20230312_140308312.webp
 model/20230312-harry-potter-hat/log/webp/20230312_162432940.webp
 model/20230312-harry-potter-hat/log/webp/20230312_162446641.webp
@@ -718,6 +722,10 @@ model/20230312-harry-potter-hat/log/webp/20230318_075412001.webp
 model/20230312-harry-potter-hat/log/webp/20230318_075436373.webp
 model/20230312-harry-potter-hat/log/webp/20230318_075445709.webp
 model/20230312-harry-potter-hat/log/webp/20230318_075454876.webp
+model/20230312-harry-potter-hat/log/webp/20230318_225152125.webp
+model/20230312-harry-potter-hat/log/webp/20230318_225209046.webp
+model/20230312-harry-potter-hat/log/webp/20230318_225235247.webp
+model/20230312-harry-potter-hat/log/webp/20230318_225246915.webp
 model/20230312-harry-potter-hat/src/files/Harry_potter_hat.stl
 model/20230312-harry-potter-hat/src/images/20230221_184758_1.jpg
 model/20230312-harry-potter-hat/src/LICENSE.txt
