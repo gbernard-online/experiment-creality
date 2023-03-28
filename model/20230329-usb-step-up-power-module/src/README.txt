@@ -1,0 +1,1 @@
+[HW-132 Case] - USB Step Up Power Supply Module / Voltage Regulator by Dejv311 on Thingiverse: https://www.thingiverse.com/thing:5235413
