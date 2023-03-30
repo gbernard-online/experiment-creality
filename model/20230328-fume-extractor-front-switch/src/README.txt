@@ -1,1 +1,0 @@
-Soldering Fume Extractor (Front Switch) by 3DSpenny on Thingiverse: https://www.thingiverse.com/thing:5561840
