@@ -820,6 +820,10 @@ model/20230331-atorch-dl24-load-case/log/20230402_204739287.jpg
 model/20230331-atorch-dl24-load-case/log/20230402_204745153.jpg
 model/20230331-atorch-dl24-load-case/log/20230402_204913511.jpg
 model/20230331-atorch-dl24-load-case/log/20230402_204941543.jpg
+model/20230331-atorch-dl24-load-case/log/20230411_121930764.jpg
+model/20230331-atorch-dl24-load-case/log/20230411_122708411.jpg
+model/20230331-atorch-dl24-load-case/log/20230411_122719147.jpg
+model/20230331-atorch-dl24-load-case/log/20230411_122937187.jpg
 model/20230331-atorch-dl24-load-case/log/webp/20230331_012144910.webp
 model/20230331-atorch-dl24-load-case/log/webp/20230331_210429963.webp
 model/20230331-atorch-dl24-load-case/log/webp/20230331_211742196.webp
@@ -829,6 +833,10 @@ model/20230331-atorch-dl24-load-case/log/webp/20230402_204739287.webp
 model/20230331-atorch-dl24-load-case/log/webp/20230402_204745153.webp
 model/20230331-atorch-dl24-load-case/log/webp/20230402_204913511.webp
 model/20230331-atorch-dl24-load-case/log/webp/20230402_204941543.webp
+model/20230331-atorch-dl24-load-case/log/webp/20230411_121930764.webp
+model/20230331-atorch-dl24-load-case/log/webp/20230411_122708411.webp
+model/20230331-atorch-dl24-load-case/log/webp/20230411_122719147.webp
+model/20230331-atorch-dl24-load-case/log/webp/20230411_122937187.webp
 model/20230331-atorch-dl24-load-case/src/files/Bottom.stl
 model/20230331-atorch-dl24-load-case/src/files/BT_increase_decrease.stl
 model/20230331-atorch-dl24-load-case/src/files/BT_setup.stl
