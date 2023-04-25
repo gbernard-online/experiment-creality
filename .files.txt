@@ -811,6 +811,15 @@ model/20230329-fume-extractor-front-switch/src/images/Image1.png
 model/20230329-fume-extractor-front-switch/src/LICENSE.txt
 model/20230329-fume-extractor-front-switch/src/README.txt
 model/20230331-atorch-dl24-load-case/links.txt
+model/20230331-atorch-dl24-load-case/log/20230331_012144910.jpg
+model/20230331-atorch-dl24-load-case/log/20230331_210429963.jpg
+model/20230331-atorch-dl24-load-case/log/20230331_211742196.jpg
+model/20230331-atorch-dl24-load-case/log/20230402_204719380.jpg
+model/20230331-atorch-dl24-load-case/log/20230402_204729785.jpg
+model/20230331-atorch-dl24-load-case/log/20230402_204739287.jpg
+model/20230331-atorch-dl24-load-case/log/20230402_204745153.jpg
+model/20230331-atorch-dl24-load-case/log/20230402_204913511.jpg
+model/20230331-atorch-dl24-load-case/log/20230402_204941543.jpg
 model/20230331-atorch-dl24-load-case/log/webp/20230331_012144910.webp
 model/20230331-atorch-dl24-load-case/log/webp/20230331_210429963.webp
 model/20230331-atorch-dl24-load-case/log/webp/20230331_211742196.webp
